@@ -1,7 +1,9 @@
 # My-Starship-Prompt
 
 #### Get started
-```brew install starship```
+```
+brew install starship
+```
 ```
 sudo echo "eval '$(starship init zsh)'" >> ~/.zshrc
 ```
