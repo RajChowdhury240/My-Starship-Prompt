@@ -1,0 +1,19 @@
+import = [
+    "~/.config/alacritty/themes/themes/horizon-dark.toml"
+]
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+size = 16
+[window]
+decorations = "None"
+opacity = 0.75
+blur = true
+
+[window.dimensions]
+columns = 140
+lines = 40
+
+[window.padding]
+x = 5
+y = 5
