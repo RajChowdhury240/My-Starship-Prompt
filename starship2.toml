@@ -1,5 +1,5 @@
 format = """
-[ ](bold white)$kubernetes$directory$git_branch$git_commit$git_state$git_status$docker_context$golang$nodejs$python$terraform$aws $battery               
+[ ](bold white)$custom$kubernetes$directory$git_branch$git_commit$git_state$git_status$docker_context$golang$nodejs$python$terraform$aws $battery               
 [ ❯ ](bold green)"""
 
 [aws]
@@ -130,3 +130,8 @@ style = "bold yellow"
 [[battery.display]]
 threshold = 100
 style = "bold green"
+
+[custom.home]
+when = "test $HOME = $PWD"
+style = "red"
+format = "🗼 "
