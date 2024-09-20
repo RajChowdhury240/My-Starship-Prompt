@@ -28,3 +28,6 @@ my starship custom config
 
 ### Alacritty Terminal Preview
 <img width="1712" alt="image" src="https://github.com/user-attachments/assets/e7ff491a-7c8a-49fd-afe0-fc76a1a27da8">
+
+### iTerm2
+<img width="1423" alt="image" src="https://github.com/user-attachments/assets/a9bb8d7e-e319-47d1-a9c5-3212c5c679ee">
